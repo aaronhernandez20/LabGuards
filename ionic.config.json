@@ -1,0 +1,7 @@
+{
+  "name": "LabGuards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
